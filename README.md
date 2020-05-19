@@ -17,4 +17,9 @@ Here is my work plan:
 5. Observation of the differences between KMeans and DBSCAN
 </br>
 
+Here an example of Uber activity in New-York, at lunch (12pm - 2pm):
+![new-york-at-lunch](https://raw.githubusercontent.com/ZoziLaMalice/Uber_Pickups/master/png_geopandas/New-York_at_lunch.png)
+
+
+
 * Dataset: [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
