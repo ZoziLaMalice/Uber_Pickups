@@ -1,17 +1,20 @@
-## Machine Learning non-supervisé
+# Machine Learning non-supervisé
 
-### Projet
+## Project Description
 
+### Using KMeans for Uber Trips
 
-## Utiliser les KMeans pour des Trips Uber
+The objective of this project is to become familiar with the **KMeans** model in today's world.</br>
+Imagine that you are **Uber** and want to give recommendations as to where the drivers should be to maximize their chances of finding a ride.
 
-Dans ce projet, vous allez vous rendre compte du pouvoir des KMeans dans le monde actuel. Imaginez que vous êtes Uber et que vous souhaitez donner des recommendations quant aux endroits où les chauffeurs devraient se trouver pour maximiser leurs chances de trouver une course.
+I used an unsupervised machine learning model to create this recommendation algorithm. **(Kmeans & DBSCAN)**</br>
 
-Nous allons utiliser le Machine Learning pour créer cet algorithme de recommandations.
+Here is my work plan:
+1. Data mining
+2. Find the optimum number of clusters
+3. Display these clusters on a map
+4. Taking into account the periods of the day
+5. Observation of the differences between KMeans and DBSCAN
+</br>
 
-Prenez le dataset suivant : [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
-
-1. Essayez de voir le nombre de clusters optimum
-2. Trouvez ces clusters sur une map
-3. Séparez maintenant ces clusters en fonction des périodes de la journée
-4. Regardez la différence KMeans et DBSCAN
+* Dataset: [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
