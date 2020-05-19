@@ -18,8 +18,18 @@ Here is my work plan:
 </br>
 
 Here an example of Uber activity in New-York, at lunch (12pm - 2pm):
-![new-york-at-lunch](https://raw.githubusercontent.com/ZoziLaMalice/Uber_Pickups/master/png_geopandas/New-York_at_lunch.png)
+<p aligh="center">
+  <img src="https://raw.githubusercontent.com/ZoziLaMalice/Uber_Pickups/master/png_geopandas/New-York_at_lunch.png">
+</p>
 
+This cross-analysis is very instructive to understand Uber activity within the week in New-York:
+<p aligh="center">
+  <img src="https://raw.githubusercontent.com/ZoziLaMalice/Uber_Pickups/master/png_geopandas/cross-analysis.png">
+</p>
 
-
+And finally, an exemple of Wednesday clustering, plot using Bokeh : 
+<p aligh="center">
+  <img src="https://raw.githubusercontent.com/ZoziLaMalice/Uber_Pickups/master/png_geopandas/wednesday-cluster.png">
+</p>
+</br>
 * Dataset: [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
